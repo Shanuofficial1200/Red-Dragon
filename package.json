@@ -6,7 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
-  },
+  },+94721602211
   "keywords": [
     "termux",
     "whatsapp",
@@ -17,7 +17,7 @@
     "bot",
     "bot-md",
     "multi-device"
-  ],
+  ],+94721602211
   "author": "NexusNw",
   "license": "MIT",
   "dependencies": {
