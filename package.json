@@ -17,7 +17,7 @@
     "bot",
     "bot-md",
     "multi-device"
-  ],
+  ],+94721602211
   "author": "NexusNw",
   "license": "MIT",
   "dependencies": {
@@ -57,7 +57,7 @@
     "yargs": "^17.2.1",
     "xfarr-api": "^1.0.2",
     "yt-search": "^2.10.2"
-  },
+  },+94721602211
   "directories": {
     "lib": "lib",
     "src": "src"
